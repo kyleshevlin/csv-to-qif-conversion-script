@@ -1,0 +1,14 @@
+{
+  "name": "csv-to-qif-coversion-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "author": "Kyle Shevlin <kyle.a.shevlin@gmail.com> (http://kyleshevlin.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "csv-parse": "^2.4.0"
+  }
+}
